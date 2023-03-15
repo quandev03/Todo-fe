@@ -1,0 +1,20 @@
+.title {
+  /* Sign in */
+
+position: absolute;
+width: 226px;
+height: 126px;
+left: 302px;
+top: 100px;
+
+font-family: 'Handlee';
+font-style: normal;
+font-weight: 400;
+font-size: 80px;
+line-height: 107px;
+
+color: #427AE7;
+
+border: 1.5px solid #427AE7;
+
+}
